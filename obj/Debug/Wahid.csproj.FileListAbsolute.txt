@@ -1,0 +1,8 @@
+C:\Users\wnasri\Source\repos\Wahid\Wahid\obj\Debug\XbdMerge\Xamarin.Android.Support.Annotations.dll.stamp
+C:\Users\wnasri\Source\repos\Wahid\Wahid\obj\Debug\XbdMerge\Xamarin.Android.Support.Compat.dll.stamp
+C:\Users\wnasri\Source\repos\Wahid\Wahid\obj\Debug\XbdMerge\Xamarin.Android.Support.Core.UI.dll.stamp
+C:\Users\wnasri\Source\repos\Wahid\Wahid\obj\Debug\XbdMerge\Xamarin.Android.Support.Core.Utils.dll.stamp
+C:\Users\wnasri\Source\repos\Wahid\Wahid\obj\Debug\XbdMerge\Xamarin.Android.Support.Media.Compat.dll.stamp
+C:\Users\wnasri\Source\repos\Wahid\Wahid\obj\Debug\XbdMerge\Xamarin.Android.Support.Fragment.dll.stamp
+C:\Users\wnasri\Source\repos\Wahid\Wahid\obj\Debug\XbdMerge\Xamarin.Android.Support.v4.dll.stamp
+C:\Users\wnasri\Source\repos\Wahid\Wahid\obj\Debug\Wahid.csproj.CoreCompileInputs.cache
