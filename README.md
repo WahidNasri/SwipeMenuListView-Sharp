@@ -4,6 +4,8 @@ Xamarin.Android Swipe menu Listview.
 I used this project, modified a little to make the code more C# style and recommendations:
 https://github.com/baoyongzhang/SwipeMenuListView
 
+Result:
+![SwipemenuListView](https://raw.githubusercontent.com/baoyongzhang/SwipeMenuListView/master/demo.gif)
 # 1. Add view in AXML Layout file:
 ```
 <Wahid.SwipemenuListview.SwipeMenuListView
