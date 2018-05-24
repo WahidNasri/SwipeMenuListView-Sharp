@@ -44,7 +44,7 @@ listview.Adapter = new MyCustomAdapter(contacts);
 ```
 listview.MenuCreator = new MenuCreatorImplementation();
 ```
-## Option 2: use Lumbda Expression
+## Option 2: use Lambda Expression
 ```
 listview.SetMenuItems((menu) =>
             {
